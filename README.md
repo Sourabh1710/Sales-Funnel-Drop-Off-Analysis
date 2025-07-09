@@ -89,7 +89,7 @@ To identify:
 | `Sales Funnel Drop-Off Analysis.ipynb` | Main analysis notebook |
 | `/charts/` | Folder containing all saved `.png` visualizations |
 | `README.md` | This documentation file |
-| `datasets` | ![4 .csv files](https://github.com/Sourabh1710/Sales-Funnel-Drop-Off-Analysis) |
+| `datasets` | [4 .csv files](https://github.com/Sourabh1710/Sales-Funnel-Drop-Off-Analysis) |
 
 ---
 
